@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriVision – Smart Crop Recommendation System
 
 AgriVision is an IoT-enabled smart agriculture project that combines soil monitoring, machine learning-based crop recommendation, and market-price analysis in a web dashboard.
@@ -54,3 +55,6 @@ If the market-price feature is used, a valid API key and internet connection may
 - The trained `.pkl` models are included. They may require compatible versions of scikit-learn and related Python libraries.
 - Use your own sensor hardware and configuration to send live soil readings to the backend.
 - Dataset and model outputs should be validated before using them for real farming decisions.
+=======
+# AgriVision
+>>>>>>> ff5579d94d4e340c3dffe4f56ef86e2924df4ac7
